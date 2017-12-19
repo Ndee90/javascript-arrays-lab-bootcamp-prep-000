@@ -1,5 +1,5 @@
 const app = "I don't do much."
 
-var destructivelyAppendKitten(name) = function {
-  
+var destructivelyAppendKitten = function(name) {
+
 }
